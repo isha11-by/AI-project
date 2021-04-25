@@ -1,1 +1,1 @@
-# AI-project
+# AI-project - wages per hour predictive model 
